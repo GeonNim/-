@@ -1,0 +1,6 @@
+1 . python -m venv {dice}  : 파이썬 가상환경 구축하기 {}는 폴더명 
+2 . 그후 터미널 창을 cmd로 연다
+3.  해당폴더에서 cmd 터미널에 Scripts\deactivate 입력
+4 . 파이썬파일을 만든후 {dicegame.py을 만든후 dice게임에} 필요한 내용들 입력한다. : {명칭은 정하고 필요한 기능들 구현}
+
+4-1. python hangman.py cmd에 입력하는게 정석임 하지만 연습때는 그냥 만들어도 된다.
